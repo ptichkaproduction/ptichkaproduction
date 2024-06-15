@@ -13,3 +13,8 @@ p {
   text-align: justify; /* Выравнивание по ширине */
   margin-left: 60px; /* Отступ слева в пикселах */
   margin-right: 10px; /* Отступ справа в пикселах */
+*
+  {
+    padding: 0;
+    margin: 0;
+  }
