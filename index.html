@@ -16,6 +16,13 @@ body { background: url(PICTURES/background.jpg); }
 <p><font size="5" face="Comic Sans MS" color="black">Если вы хотите узнать об изменениях сайта, то зайдите на:</font></p>
 <p><font size="4" face="Comic Sans MS" color="black"><a href="logs.html">СТРАНИЦУ ИЗМЕНЕНИЙ</a></font></p>
 <p><font size="3" color="black" face="Comic Sans MS">Связаться с нами: <a href="feedback.html">отзывы и предложения</a></font></p>
+   var texts = [
+  "I am a sentence.",
+  "Some nice stuff.",
+  "I am random too!"
+];
+
+document.getElementById('randomText').value = texts[Math.floor(Math.random()*texts.length)];
 <font size="3" color="3333FF" face="Comic Sans MS">Ptichka production <font size="3" color="black" face="Comic Sans MS">(2020 - 2024). ALL RIGHTS REVERSED</a></p>
 </body>
 </head>
