@@ -1,2 +1,2 @@
 # "Ptichka Production" web-page
- Just my web-page.
+Welcome to web page of "PTICHKA PRODUCTION"!
