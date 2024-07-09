@@ -13,3 +13,9 @@ p {
   text-align: justify; /* Выравнивание по ширине */
   margin-left: 60px; /* Отступ слева в пикселах */
   margin-right: 10px; /* Отступ справа в пикселах */
+}
+p {
+  color: #5b330b;
+  font-family: "Helvetica", cursive;
+  font-size: 20px;
+}
